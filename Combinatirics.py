@@ -1,4 +1,4 @@
-
+# Best way to code permutations of unique numbers. algorithem principle - recursion
 def permute(nums):
     res = []
     if len(nums) == 1:
